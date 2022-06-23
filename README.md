@@ -13,7 +13,7 @@ A JavaScript program required to perform basic operations like Addition, Subtrac
 * follow instructions from the calculator.
 
 ## Hosted Github Page.
-The github page is hosted at
+The github page is hosted at https://odinks.github.io/Basic-Arithmetic-Calculator./
 
 ## Copyright.
 © Nicholas Okeke 2022.
